@@ -1,0 +1,4 @@
+
+post_install() {
+  echo "See also in the ArchWiki: http://wiki.archlinux.org/index.php/Splashy"
+}
